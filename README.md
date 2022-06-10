@@ -1,6 +1,7 @@
 ### Hi there 👋
 I’m currently learning Java
 v1.1
++edit from IDEA
 +edit
 
 <!--
